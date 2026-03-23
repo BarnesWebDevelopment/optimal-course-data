@@ -1,20 +1,20 @@
 {
-  "date": "14 March 2026",
+  "date": "26 February 2026",
   "lessons": [
     {
-      "title": "Copilot Functionality",
-      "camp": "Base Camp",
-      "url": "https://www.optimallearningcenter.com/products/copilot-new-course-template/categories/2159688667/posts/2195885888"
+      "title": "Smart Skeptic",
+      "camp": "Backpack",
+      "url": "https://www.optimallearningcenter.com/products/new-course-template-copilot-fp/categories/2159688672/posts/2195885906"
     },
     {
-      "title": "Copilot Pricing",
-      "camp": "Base Camp",
-      "url": "https://www.optimallearningcenter.com/products/copilot-new-course-template/categories/2159688667/posts/2195885890"
+      "title": "Extracting Data from Images",
+      "camp": "Content Consumption",
+      "url": "https://www.optimallearningcenter.com/products/new-course-template-copilot-fp/categories/2159688677/posts/2195885921"
     },
     {
-      "title": "Copilot Models",
-      "camp": "Base Camp",
-      "url": "https://www.optimallearningcenter.com/products/copilot-new-course-template/categories/2159688667/posts/2195885892"
+      "title": "Scheduled Prompts and Tasks",
+      "camp": "Summit",
+      "url": "https://www.optimallearningcenter.com/products/new-course-template-copilot-fp/categories/2159688687/posts/2195885938"
     }
   ]
 }
