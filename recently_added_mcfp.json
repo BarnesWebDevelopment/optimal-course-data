@@ -1,1 +1,20 @@
-
+{
+  "date": "26 February 2026",
+  "lessons": [
+    {
+      "title": "Smart Skeptic",
+      "camp": "Backpack",
+      "url": "https://www.optimallearningcenter.com/products/new-course-template-copilot-fp/categories/2159688672/posts/2195885906"
+    },
+    {
+      "title": "Extracting Data from Images",
+      "camp": "Content Consumption",
+      "url": "https://www.optimallearningcenter.com/products/new-course-template-copilot-fp/categories/2159688677/posts/2195885921"
+    },
+    {
+      "title": "Scheduled Prompts and Tasks",
+      "camp": "Summit",
+      "url": "https://www.optimallearningcenter.com/products/new-course-template-copilot-fp/categories/2159688687/posts/2195885938"
+    }
+  ]
+}
