@@ -1,6 +1,19 @@
 {
-  "date": "10 April 2026",
+  "date": "26 February 2026",
   "lessons": [
+    {
+      "title": "Smart Skeptic",
+      "camp": "Backpack",
+      "url": "https://www.optimallearningcenter.com/products/construction-course/categories/2159688672/posts/2195885906"
+    },
+    {
+      "title": "Uncover Gaps",
+      "camp": "Thought Partner",
+      "url": "https://www.optimallearningcenter.com/products/construction-course/categories/2159688672/posts/2195885906"
+    }
+  ],
+  "previous_date": "10 April 2026",
+  "previous_lessons": [
     {
       "title": "Claude Functionality",
       "camp": "Claude",
