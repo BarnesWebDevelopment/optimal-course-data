@@ -1,6 +1,24 @@
 {
-  "date": "26 February 2026",
+  "date": "30 April 2026",
   "lessons": [
+    {
+      "title": "From the Perspective of",
+      "camp": "Backpack",
+      "url": "https://www.optimallearningcenter.com/products/chatgpt-wealth-managers-and-teams/categories/2158065409/posts/2196928025"
+    },
+    {
+      "title": "Chain of Thought",
+      "camp": "Backpack",
+      "url": "https://www.optimallearningcenter.com/products/chatgpt-wealth-managers-and-teams/categories/2158065410/posts/2189351105"
+    },
+    {
+      "title": "Skills",
+      "camp": "The Summit",
+      "url": "https://www.optimallearningcenter.com/products/chatgpt-wealth-managers-and-teams/categories/2157723999/posts/2196926054"
+    }
+  ],
+  "previous_date": "26 February 2026",
+  "previous_lessons": [
     {
       "title": "Smart Skeptic",
       "camp": "Backpack",
