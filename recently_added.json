@@ -1,6 +1,24 @@
 {
-  "date": "26 February 2026",
+  "date": "30 April 2026",
   "lessons": [
+    {
+      "title": "From the Perspective of",
+      "camp": "Backpack",
+      "url": "https://www.optimallearningcenter.com/products/copilot-wealth-managers-and-teams/categories/2158548988/posts/2196928298"
+    },
+    {
+      "title": "Chain of Thought",
+      "camp": "Backpack",
+      "url": "https://www.optimallearningcenter.com/products/copilot-wealth-managers-and-teams/categories/2158548989/posts/2191328837"
+    },
+    {
+      "title": "Analyst Agent",
+      "camp": "The Summit",
+      "url": "https://www.optimallearningcenter.com/products/copilot-wealth-managers-and-teams/categories/2158549003/posts/2196899042"
+    }
+  ],
+  "previous_date": "26 February 2026",
+  "previous_lessons": [
     {
       "title": "Smart Skeptic",
       "camp": "Backpack",
