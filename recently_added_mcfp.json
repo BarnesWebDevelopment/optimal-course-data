@@ -1,6 +1,29 @@
 {
-  "date": "26 February 2026",
+  "date": "29 May 2026",
   "lessons": [
+    {
+      "title": "Prompt Library",
+      "camp": "Base Camp",
+      "url": "https://www.optimallearningcenter.com/products/copilot-financial-professionals/categories/2159227753/posts/2197644950"
+    },
+    {
+      "title": "Find Missed Opportunities in your Emails",
+      "camp": "Communications",
+      "url": "https://www.optimallearningcenter.com/products/copilot-financial-professionals/categories/2159227761/posts/2197667081"
+    },
+    {
+      "title": "Copilot Cowork",
+      "camp": "Summit",
+      "url": "https://www.optimallearningcenter.com/products/copilot-financial-professionals/categories/2159227773/posts/2197645071"
+    },
+    {
+      "title": "Using Agents to Build Agents",
+      "camp": "Summit",
+      "url": "https://www.optimallearningcenter.com/products/copilot-financial-professionals/categories/2159227761/posts/2197667081"
+    }
+  ],
+  "previous_date": "26 February 2026",
+  "previous_lessons": [
     {
       "title": "Smart Skeptic",
       "camp": "Backpack",
