@@ -1,6 +1,29 @@
 {
-  "date": "30 April 2026",
+  "date": "29 May 2026",
   "lessons": [
+    {
+      "title": "Prompt Library",
+      "camp": "Base Camp",
+      "url": "https://www.optimallearningcenter.com/products/copilot-wealth-managers-and-teams/categories/2158548983/posts/2197638437"
+    },
+    {
+      "title": "Find Missed Opportunities in your Emails",
+      "camp": "Communication",
+      "url": "https://www.optimallearningcenter.com/products/copilot-wealth-managers-and-teams/categories/2158548991/posts/2197666802"
+    },
+    {
+      "title": "Copilot Cowork",
+      "camp": "Summit",
+      "url": "https://www.optimallearningcenter.com/products/copilot-wealth-managers-and-teams/categories/2158549003/posts/2197644959"
+    },
+    {
+      "title": "Using Agents to Build Agents",
+      "camp": "Summit",
+      "url": "https://www.optimallearningcenter.com/products/copilot-wealth-managers-and-teams/categories/2158549003/posts/2197638786"
+    }
+  ],
+  "previous_date": "30 April 2026",
+  "previous_lessons": [
     {
       "title": "From the Perspective of",
       "camp": "Backpack",
@@ -15,29 +38,6 @@
       "title": "Analyst Agent",
       "camp": "The Summit",
       "url": "https://www.optimallearningcenter.com/products/copilot-wealth-managers-and-teams/categories/2158549003/posts/2196899042"
-    }
-  ],
-  "previous_date": "26 February 2026",
-  "previous_lessons": [
-    {
-      "title": "Smart Skeptic",
-      "camp": "Backpack",
-      "url": "https://www.optimallearningcenter.com/products/copilot-wealth-managers-and-teams/categories/2158548988/posts/2195184865"
-    },
-    {
-      "title": "Extracting Data & Insights from Images",
-      "camp": "Content Consumption",
-      "url": "https://www.optimallearningcenter.com/products/copilot-wealth-managers-and-teams/categories/2158548993/posts/2195185193"
-    },
-    {
-      "title": "Uncover Gaps",
-      "camp": "Thought Partner",
-      "url": "https://www.optimallearningcenter.com/products/copilot-wealth-managers-and-teams/categories/2158548998/posts/2195185215"
-    },
-    {
-      "title": "Scheduled Prompts & Tasks",
-      "camp": "The Summit",
-      "url": "https://www.optimallearningcenter.com/products/copilot-wealth-managers-and-teams/categories/2158549003/posts/2195185228"
     }
   ]
 }
