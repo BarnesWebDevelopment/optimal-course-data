@@ -1,6 +1,24 @@
 {
-  "date": "29 May 2026",
+  "date": "26 June 2026",
   "lessons": [
+    {
+      "title": "What Happens When Clients Start Using AI",
+      "camp": "Communication",
+      "url": "https://www.optimallearningcenter.com/products/copilot-wealth-managers-and-teams/categories/2158548990/posts/2198376690"
+    },
+    {
+      "title": "Stock Analysis",
+      "camp": "Content Consumption",
+      "url": "https://www.optimallearningcenter.com/products/copilot-wealth-managers-and-teams/categories/2158548992/posts/2198376419"
+    },
+    {
+      "title": "Research Advanced Planning Topics with AI",
+      "camp": "Content Consumption",
+      "url": "https://www.optimallearningcenter.com/products/copilot-wealth-managers-and-teams/categories/2158548992/posts/2198376423"
+    }
+  ],
+  "previous_date": "29 May 2026",
+  "previous_lessons": [
     {
       "title": "Prompt Library",
       "camp": "Base Camp",
@@ -20,24 +38,6 @@
       "title": "Using Agents to Build Agents",
       "camp": "Summit",
       "url": "https://www.optimallearningcenter.com/products/copilot-wealth-managers-and-teams/categories/2158549003/posts/2197638786"
-    }
-  ],
-  "previous_date": "30 April 2026",
-  "previous_lessons": [
-    {
-      "title": "From the Perspective of",
-      "camp": "Backpack",
-      "url": "https://www.optimallearningcenter.com/products/copilot-wealth-managers-and-teams/categories/2158548988/posts/2196928298"
-    },
-    {
-      "title": "Chain of Thought",
-      "camp": "Backpack",
-      "url": "https://www.optimallearningcenter.com/products/copilot-wealth-managers-and-teams/categories/2158548989/posts/2191328837"
-    },
-    {
-      "title": "Analyst Agent",
-      "camp": "The Summit",
-      "url": "https://www.optimallearningcenter.com/products/copilot-wealth-managers-and-teams/categories/2158549003/posts/2196899042"
     }
   ]
 }
