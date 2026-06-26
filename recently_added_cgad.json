@@ -1,6 +1,24 @@
 {
-  "date": "30 May 2026",
+  "date": "26 June 2026",
   "lessons": [
+    {
+      "title": "When clients start using AI",
+      "camp": "Communication",
+      "url": "https://www.optimallearningcenter.com/products/chatgpt-wealth-managers-and-teams/categories/2157713956/posts/2198382301"
+    },
+    {
+      "title": "Researching advanced planning topics with AI",
+      "camp": "Content Consumption",
+      "url": "https://www.optimallearningcenter.com/products/chatgpt-wealth-managers-and-teams/categories/2157713958/posts/2198377392"
+    },
+    {
+      "title": "Stock Analysis",
+      "camp": "Content Consumption",
+      "url": "https://www.optimallearningcenter.com/products/chatgpt-wealth-managers-and-teams/categories/2157713958/posts/2198382103"
+    }
+  ],
+  "previous_date": "30 May 2026",
+  "previous_lessons": [
     {
       "title": "Find Missed Opportunities in your Emails",
       "camp": "Communications",
@@ -15,24 +33,6 @@
       "title": "Using a GPT to Build GPTs",
       "camp": "Summit",
       "url": "https://www.optimallearningcenter.com/products/chatgpt-wealth-managers-and-teams/categories/2157723999/posts/2197659386"
-    }
-  ],
-  "previous_date": "30 April 2026",
-  "previous_lessons": [
-    {
-      "title": "From the Perspective of",
-      "camp": "Backpack",
-      "url": "https://www.optimallearningcenter.com/products/chatgpt-wealth-managers-and-teams/categories/2158065409/posts/2196928025"
-    },
-    {
-      "title": "Chain of Thought",
-      "camp": "Backpack",
-      "url": "https://www.optimallearningcenter.com/products/chatgpt-wealth-managers-and-teams/categories/2158065410/posts/2189351105"
-    },
-    {
-      "title": "Skills",
-      "camp": "The Summit",
-      "url": "https://www.optimallearningcenter.com/products/chatgpt-wealth-managers-and-teams/categories/2157723999/posts/2196926054"
     }
   ]
 }
