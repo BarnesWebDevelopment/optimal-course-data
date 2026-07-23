@@ -1,6 +1,24 @@
 {
-  "date": "26 June 2026",
+  "date": "23 July 2026",
   "lessons": [
+    {
+      "title": "The AI Lie Detector",
+      "camp": "Backpack",
+      "url": "https://www.optimallearningcenter.com/products/copilot-wealth-managers-and-teams/categories/2158548988/posts/2198990247"
+    },
+    {
+      "title": "The Humanizer Prompt",
+      "camp": "Backpack",
+      "url": "https://www.optimallearningcenter.com/products/copilot-wealth-managers-and-teams/categories/2158548988/posts/2198989082"
+    },
+    {
+      "title": "Excel 2",
+      "camp": "Summit",
+      "url": "https://www.optimallearningcenter.com/products/copilot-wealth-managers-and-teams/categories/2158557072/posts/2199045605"
+    }
+  ],
+  "previous_date": "26 June 2026",
+  "previous_lessons": [
     {
       "title": "What Happens When Clients Start Using AI",
       "camp": "Communication",
@@ -15,29 +33,6 @@
       "title": "Research Advanced Planning Topics with AI",
       "camp": "Content Consumption",
       "url": "https://www.optimallearningcenter.com/products/copilot-wealth-managers-and-teams/categories/2158548992/posts/2198376423"
-    }
-  ],
-  "previous_date": "29 May 2026",
-  "previous_lessons": [
-    {
-      "title": "Prompt Library",
-      "camp": "Base Camp",
-      "url": "https://www.optimallearningcenter.com/products/copilot-wealth-managers-and-teams/categories/2158548983/posts/2197638437"
-    },
-    {
-      "title": "Find Missed Opportunities in your Emails",
-      "camp": "Communication",
-      "url": "https://www.optimallearningcenter.com/products/copilot-wealth-managers-and-teams/categories/2158548991/posts/2197666802"
-    },
-    {
-      "title": "Copilot Cowork",
-      "camp": "Summit",
-      "url": "https://www.optimallearningcenter.com/products/copilot-wealth-managers-and-teams/categories/2158549003/posts/2197644959"
-    },
-    {
-      "title": "Using Agents to Build Agents",
-      "camp": "Summit",
-      "url": "https://www.optimallearningcenter.com/products/copilot-wealth-managers-and-teams/categories/2158549003/posts/2197638786"
     }
   ]
 }
