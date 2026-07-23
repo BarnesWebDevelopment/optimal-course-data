@@ -1,6 +1,24 @@
 {
-  "date": "26 June 2026",
+  "date": "23 July 2026",
   "lessons": [
+    {
+      "title": "AI Lie Detector",
+      "camp": "Backpack",
+      "url": "https://www.optimallearningcenter.com/products/chatgpt-wealth-managers-and-teams/categories/2158065409/posts/2199045449"
+    },
+    {
+      "title": "Humanizer Prompt",
+      "camp": "Backpack",
+      "url": "https://www.optimallearningcenter.com/products/chatgpt-wealth-managers-and-teams/categories/2158065409/posts/2198989782"
+    },
+    {
+      "title": "ChatGPT in Excel",
+      "camp": "Summit",
+      "url": "https://www.optimallearningcenter.com/products/chatgpt-wealth-managers-and-teams/categories/2157723999/posts/2199045274"
+    }
+  ],
+  "previous_date": "26 June 2026",
+  "previous_lessons": [
     {
       "title": "When clients start using AI",
       "camp": "Communication",
@@ -15,24 +33,6 @@
       "title": "Stock Analysis",
       "camp": "Content Consumption",
       "url": "https://www.optimallearningcenter.com/products/chatgpt-wealth-managers-and-teams/categories/2157713958/posts/2198382103"
-    }
-  ],
-  "previous_date": "30 May 2026",
-  "previous_lessons": [
-    {
-      "title": "Find Missed Opportunities in your Emails",
-      "camp": "Communications",
-      "url": "https://www.optimallearningcenter.com/products/chatgpt-wealth-managers-and-teams/categories/2157713973/posts/2197678831"
-    },
-    {
-      "title": "Prompt Library Agent",
-      "camp": "Summit",
-      "url": "https://www.optimallearningcenter.com/products/chatgpt-wealth-managers-and-teams/categories/2157723999/posts/2197678832"
-    },
-    {
-      "title": "Using a GPT to Build GPTs",
-      "camp": "Summit",
-      "url": "https://www.optimallearningcenter.com/products/chatgpt-wealth-managers-and-teams/categories/2157723999/posts/2197659386"
     }
   ]
 }
