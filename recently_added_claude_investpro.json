@@ -1,3 +1,25 @@
 {
-  "lessons": []
+  "lessons": [
+    {
+      "title": "Smart Skeptic",
+      "camp": "Backpack",
+      "url": "https://www.optimallearningcenter.com/products/claude-investments-professionals/categories/2160189295/posts/2197888923"
+    },
+    {
+      "title": "Regulatory Impact Analysis",
+      "camp": "Content Consumption",
+      "url": "https://www.optimallearningcenter.com/products/claude-investments-professionals/categories/2160528004/posts/2199775342"
+    },
+    {
+      "title": "Knowledge Stacking",
+      "camp": "Content Consumption",
+      "url": "https://www.optimallearningcenter.com/products/claude-investments-professionals/categories/2160528004/posts/2199831316"
+    },
+    {
+      "title": "Claude Cowork",
+      "camp": "Summit",
+      "url": "https://www.optimallearningcenter.com/products/claude-investments-professionals/categories/2160189305/posts/2199871783"
+    }
+  ],
+  "previous_lessons": []
 }
