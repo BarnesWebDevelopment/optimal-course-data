@@ -1,6 +1,27 @@
 {
-  "date": "23 July 2026",
   "lessons": [
+    {
+      "title": "When to use which capability",
+      "camp": "Base Camp",
+      "url": "https://www.optimallearningcenter.com/products/copilot-wealth-managers-and-teams/categories/2158548983/posts/2200788435"
+    },
+    {
+      "title": "Notebook",
+      "camp": "Base Camp",
+      "url": "https://www.optimallearningcenter.com/products/copilot-wealth-managers-and-teams/categories/2158548983/posts/2200767410"
+    },
+    {
+      "title": "Get to the point",
+      "camp": "Backpack",
+      "url": "https://www.optimallearningcenter.com/products/copilot-wealth-managers-and-teams/categories/2158548988/posts/2200825751"
+    },
+    {
+      "title": "Build your Strategic Thinking Partner",
+      "camp": "Business Development",
+      "url": "https://www.optimallearningcenter.com/products/copilot-wealth-managers-and-teams/categories/2158549001/posts/2200768426"
+    }
+  ],
+  "previous_lessons": [
     {
       "title": "The AI Lie Detector",
       "camp": "Backpack",
@@ -15,24 +36,6 @@
       "title": "Excel 2",
       "camp": "Summit",
       "url": "https://www.optimallearningcenter.com/products/copilot-wealth-managers-and-teams/categories/2158557072/posts/2199045605"
-    }
-  ],
-  "previous_date": "26 June 2026",
-  "previous_lessons": [
-    {
-      "title": "What Happens When Clients Start Using AI",
-      "camp": "Communication",
-      "url": "https://www.optimallearningcenter.com/products/copilot-wealth-managers-and-teams/categories/2158548990/posts/2198376690"
-    },
-    {
-      "title": "Stock Analysis",
-      "camp": "Content Consumption",
-      "url": "https://www.optimallearningcenter.com/products/copilot-wealth-managers-and-teams/categories/2158548992/posts/2198376419"
-    },
-    {
-      "title": "Research Advanced Planning Topics with AI",
-      "camp": "Content Consumption",
-      "url": "https://www.optimallearningcenter.com/products/copilot-wealth-managers-and-teams/categories/2158548992/posts/2198376423"
     }
   ]
 }
