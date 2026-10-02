@@ -1,6 +1,22 @@
 {
-  "date": "23 July 2026",
   "lessons": [
+    {
+      "title": "When to use which ChatGPT Capability",
+      "camp": "Base Camp",
+      "url": "https://www.optimallearningcenter.com/products/chatgpt-wealth-managers-and-teams/categories/2157724008/posts/2200818290"
+    },
+    {
+      "title": "Get to the Point",
+      "camp": "Backpack",
+      "url": "https://www.optimallearningcenter.com/products/chatgpt-wealth-managers-and-teams/categories/2158065409/posts/2200825423"
+    },
+    {
+      "title": "Build Your Strategic Thinking Partner",
+      "camp": "Business Development",
+      "url": "https://www.optimallearningcenter.com/products/chatgpt-wealth-managers-and-teams/categories/2157679264/posts/2200825509"
+    }
+  ],
+  "previous_lessons": [
     {
       "title": "AI Lie Detector",
       "camp": "Backpack",
@@ -15,24 +31,6 @@
       "title": "ChatGPT in Excel",
       "camp": "Summit",
       "url": "https://www.optimallearningcenter.com/products/chatgpt-wealth-managers-and-teams/categories/2157723999/posts/2199045274"
-    }
-  ],
-  "previous_date": "26 June 2026",
-  "previous_lessons": [
-    {
-      "title": "When clients start using AI",
-      "camp": "Communication",
-      "url": "https://www.optimallearningcenter.com/products/chatgpt-wealth-managers-and-teams/categories/2157713956/posts/2198382301"
-    },
-    {
-      "title": "Researching advanced planning topics with AI",
-      "camp": "Content Consumption",
-      "url": "https://www.optimallearningcenter.com/products/chatgpt-wealth-managers-and-teams/categories/2157713958/posts/2198377392"
-    },
-    {
-      "title": "Stock Analysis",
-      "camp": "Content Consumption",
-      "url": "https://www.optimallearningcenter.com/products/chatgpt-wealth-managers-and-teams/categories/2157713958/posts/2198382103"
     }
   ]
 }
