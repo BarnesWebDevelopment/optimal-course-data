@@ -1,6 +1,27 @@
 {
-  "date": "27 July 2026",
   "lessons": [
+    {
+      "title": "When to use which Copilot Capability",
+      "camp": "Base Camp",
+      "url": "https://www.optimallearningcenter.com/products/copilot-financial-professionals/categories/2159227753/posts/2200825825"
+    },
+    {
+      "title": "Notebook",
+      "camp": "Base Camp",
+      "url": "https://www.optimallearningcenter.com/products/copilot-financial-professionals/categories/2159227753/posts/2200767652"
+    },
+    {
+      "title": "AI Lie detector",
+      "camp": "Backpack",
+      "url": "https://www.optimallearningcenter.com/products/copilot-financial-professionals/categories/2159227758/posts/2199046393"
+    },
+    {
+      "title": "Get to the point",
+      "camp": "Backpack",
+      "url": "https://www.optimallearningcenter.com/products/copilot-financial-professionals/categories/2159227758/posts/2200818115"
+    }
+  ],
+  "previous_lessons": [
     {
       "title": "From the perspective of",
       "camp": "Backpack",
@@ -20,29 +41,6 @@
       "title": "Excel 2",
       "camp": "Summit",
       "url": "https://www.optimallearningcenter.com/products/copilot-financial-professionals/categories/2159227776/posts/2199045712"
-    }
-  ],
-  "previous_date": "29 May 2026",
-  "previous_lessons": [
-    {
-      "title": "Prompt Library",
-      "camp": "Base Camp",
-      "url": "https://www.optimallearningcenter.com/products/copilot-financial-professionals/categories/2159227753/posts/2197644950"
-    },
-    {
-      "title": "Find Missed Opportunities in your Emails",
-      "camp": "Communications",
-      "url": "https://www.optimallearningcenter.com/products/copilot-financial-professionals/categories/2159227761/posts/2197667081"
-    },
-    {
-      "title": "Copilot Cowork",
-      "camp": "Summit",
-      "url": "https://www.optimallearningcenter.com/products/copilot-financial-professionals/categories/2159227773/posts/2197645071"
-    },
-    {
-      "title": "Using Agents to Build Agents",
-      "camp": "Summit",
-      "url": "https://www.optimallearningcenter.com/products/copilot-financial-professionals/categories/2159227773/posts/2197640424"
     }
   ]
 }
