@@ -1,6 +1,23 @@
 {
   "lessons": [
     {
+      "title": "Get to the Point:",
+      "camp": "Backpack",
+      "url": "https://www.optimallearningcenter.com/products/claude-investments-professionals/categories/2160189295/posts/2201540692"
+    },
+    {
+      "title": "The AI Lie Detector",
+      "camp": "Backpack",
+      "url": "https://www.optimallearningcenter.com/products/claude-investments-professionals/categories/2160189295/posts/2201538928"
+    },
+    {
+      "title": "The Humanizer Prompt",
+      "camp": "Backpack",
+      "url": "https://www.optimallearningcenter.com/products/claude-investments-professionals/categories/2160189295/posts/2201539701"
+    }
+  ],
+  "previous_lessons": [
+    {
       "title": "Smart Skeptic",
       "camp": "Backpack",
       "url": "https://www.optimallearningcenter.com/products/claude-investments-professionals/categories/2160189295/posts/2197888923"
@@ -20,6 +37,5 @@
       "camp": "Summit",
       "url": "https://www.optimallearningcenter.com/products/claude-investments-professionals/categories/2160189305/posts/2199871783"
     }
-  ],
-  "previous_lessons": []
+  ]
 }
